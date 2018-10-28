@@ -41,7 +41,7 @@ build_matrix <- function(sizeref, listobject){
 }
 
 ## Run everything
-split_stuff3 <- function(datafile){
+split_stuff <- function(datafile){
         ## Read data
         dataobj <- read.table(datafile, fill=TRUE, stringsAsFactors=FALSE)
         ## Remove header
