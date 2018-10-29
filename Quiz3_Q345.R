@@ -45,9 +45,6 @@ ordered_merged <- arrange(mututated_merged, desc(NumRank))
 ## print #13 to console
 ordered_merged[13,1:4]
 
-## Q3 Answer:
-## 189 total matches, #13 = St Kitts and Nevis
-
 ## Question 4
 ## Need to perform mean calculation
 ## Probably easiest to do this as vector operation
@@ -64,10 +61,7 @@ nonoecd <- which(income_group=='High income: nonOECD')
 mean(all_ranks[oecd])
 mean(all_ranks[nonoecd])
 
-## Q4 Answer:
-## 32.9667, 91.91304
-
-## Q5
+## Question 5
 
 ## Group By Quantiles using ntile
 ## Not sure what the point of Quantiling the data is here c
@@ -84,6 +78,3 @@ new_table_sorted <- arrange(new_table, NumRank)
 
 ## Filter by countries in top 38 and with Income.Group "Lower middle income"
 filter(new_table_sorted, NumRank <=38 & Income.Group=="Lower middle income")
-
-## Q5 Answer:
-## 5
