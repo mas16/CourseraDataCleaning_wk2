@@ -11,12 +11,12 @@ This code book is for interpretting `tidy.txt`, a cleaned data set corresponding
 ## Activities
 The following activities were performed during the measrumentes. These are shown in the tidy.txt dataset in the `ActivityName` column. The activites are listed below:
 
-`WALKING`
-`WALKING_UPSTAIRS`
-`WALKING_DOWNSTAIRS`
-`SITTING`
-`STANDING`
-`LAYING`
+`WALKING`    
+`WALKING_UPSTAIRS`  
+`WALKING_DOWNSTAIRS`    
+`SITTING`   
+`STANDING`   
+`LAYING`   
 
 ## Measurements
 Overall, there are 86 unique mean and standard deviation measurments listed below. 
