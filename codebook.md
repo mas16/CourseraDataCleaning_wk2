@@ -1,7 +1,7 @@
 # Code Book for tidy.txt
 
 ## Introduction
-This code book is to be used with tidy.txt, a cleaned data set corresponding to the data collected from the Samsung Galaxy S smartphone.
+This code book is for interpretting `tidy.txt`, a cleaned data set corresponding to measurment data collected using the Samsung Galaxy S smartphone. In total, 30 human subjects were measured using an `Accelerometer` and `Gyroscope` while performing different activities (described below). 
 
 ## Identifiers
 
