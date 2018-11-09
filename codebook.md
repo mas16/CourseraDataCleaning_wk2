@@ -5,7 +5,7 @@ This code book is to be used with tidy.txt, a cleaned data set corresponding to 
 
 ## Identifiers
 
-'''
+```
 Subjects
-'''
+```
 - the ID of the Subject being measured 
