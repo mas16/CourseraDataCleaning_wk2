@@ -8,8 +8,14 @@ This code book is to be used with tidy.txt, a cleaned data set corresponding to 
 `Subjects` -the ID of the subject being measured     
 `ActivityName` -the name of the activity being performed by the subject during the measurement
 
-## Measurments
-Overall there are 86 unique mean and standard deviation measurments 
+## Measurements
+Overall, there are 86 unique mean and standard deviation measurments listed below. 
+
+Measurements made in the time domain begin with `Time` and measurments made in the frequency domain begin with `Frequency.` 
+
+Measurments were made either using the `Accelerometer` or the `Gyroscope`. 
+
+The values reported in tidy.txt are the average overall all measurments taken for a given activity for a given subject.  
 
 `TimeBodyAccelerometerMeanX`                             
 `TimeBodyAccelerometerMeanY`                             
@@ -97,3 +103,13 @@ Overall there are 86 unique mean and standard deviation measurments
 `Angle(X,GravityMean)`                                   
 `Angle(Y,GravityMean)`                                   
 `Angle(Z,GravityMean)`
+
+## Activities
+The following activities were performed during the measrumentes. These are shown in the tidy.txt dataset in the `ActivityName` column. The activites are listed below:
+
+`WALKING`
+`WALKING_UPSTAIRS`
+`WALKING_DOWNSTAIRS`
+`SITTING`
+`STANDING`
+`LAYING`
