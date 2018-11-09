@@ -9,7 +9,7 @@ This code book is to be used with tidy.txt, a cleaned data set corresponding to 
 `ActivityName` -the name of the activity being performed by the subject during the measurement
 
 ## Measurments
-Overall there are 86 unique mean and standard deviation measurments<\br>  
+Overall there are 86 unique mean and standard deviation measurments<br\>  
 `TimeBodyAccelerometerMeanX`                             
 `TimeBodyAccelerometerMeanY`                             
 `TimeBodyAccelerometerMeanZ`                             
