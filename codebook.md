@@ -10,6 +10,7 @@ This code book is to be used with tidy.txt, a cleaned data set corresponding to 
 
 ## Measurments
 Overall there are 86 unique mean and standard deviation measurments   
+<\br>
 `TimeBodyAccelerometerMeanX`                             
 `TimeBodyAccelerometerMeanY`                             
 `TimeBodyAccelerometerMeanZ`                             
