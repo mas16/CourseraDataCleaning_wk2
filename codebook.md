@@ -1,7 +1,7 @@
 # Code Book for tidy.txt
 
 ## Introduction
-This code book is for interpretting `tidy.txt`, a cleaned data set corresponding to measurment data collected using the Samsung Galaxy S smartphone. In total, 30 human subjects were measured using an `Accelerometer` and `Gyroscope` while performing different activities (described below). 
+This code book is for interpretting `tidy.txt`, a cleaned data set corresponding to measurment data collected using the Samsung Galaxy S smartphone. In total, 30 human subjects were measured using an "Accelerometer" and "Gyroscope" while performing different activities (described below). 
 
 ## Identifiers
 
@@ -11,9 +11,9 @@ This code book is for interpretting `tidy.txt`, a cleaned data set corresponding
 ## Measurements
 Overall, there are 86 unique mean and standard deviation measurments listed below. 
 
-Measurements made in the time domain begin with `Time` and measurments made in the frequency domain begin with `Frequency.` 
+Measurements made in the time domain have names that begin with `Time` and measurments made in the frequency domain have names that begin with `Frequency.` 
 
-Measurments were made either using the `Accelerometer` or the `Gyroscope`. 
+The measuring device is described in the measurement name as `Accelerometer` or `Gyroscope`. 
 
 The values reported in tidy.txt are the average overall all measurments taken for a given activity for a given subject.  
 
