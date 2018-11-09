@@ -8,6 +8,16 @@ This code book is for interpretting `tidy.txt`, a cleaned data set corresponding
 `Subjects` -the ID of the subject being measured     
 `ActivityName` -the name of the activity being performed by the subject during the measurement
 
+## Activities
+The following activities were performed during the measrumentes. These are shown in the tidy.txt dataset in the `ActivityName` column. The activites are listed below:
+
+`WALKING`
+`WALKING_UPSTAIRS`
+`WALKING_DOWNSTAIRS`
+`SITTING`
+`STANDING`
+`LAYING`
+
 ## Measurements
 Overall, there are 86 unique mean and standard deviation measurments listed below. 
 
@@ -102,14 +112,4 @@ The values reported in tidy.txt are the average overall all measurments taken fo
 `Angle(TimeBodyGyroscopeJerkMean,GravityMean)`           
 `Angle(X,GravityMean)`                                   
 `Angle(Y,GravityMean)`                                   
-`Angle(Z,GravityMean)`
-
-## Activities
-The following activities were performed during the measrumentes. These are shown in the tidy.txt dataset in the `ActivityName` column. The activites are listed below:
-
-`WALKING`   
-`WALKING_UPSTAIRS`   
-`WALKING_DOWNSTAIRS`   
-`SITTING`   
-`STANDING`   
-`LAYING`   
+`Angle(Z,GravityMean)`   
