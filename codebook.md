@@ -107,9 +107,9 @@ The values reported in tidy.txt are the average overall all measurments taken fo
 ## Activities
 The following activities were performed during the measrumentes. These are shown in the tidy.txt dataset in the `ActivityName` column. The activites are listed below:
 
-`WALKING`
-`WALKING_UPSTAIRS`
-`WALKING_DOWNSTAIRS`
-`SITTING`
-`STANDING`
-`LAYING`
+`WALKING`   
+`WALKING_UPSTAIRS`   
+`WALKING_DOWNSTAIRS`   
+`SITTING`   
+`STANDING`   
+`LAYING`   
