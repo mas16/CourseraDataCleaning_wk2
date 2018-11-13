@@ -5,6 +5,7 @@ This code book is for interpretting `tidy.txt`, a cleaned data set corresponding
 
 ## Identifiers
 
+<<<<<<< HEAD
 `Subjects` -the ID of the subject being measured     
 `ActivityName` -the name of the activity being performed by the subject during the measurement
 
@@ -113,3 +114,9 @@ The values reported in tidy.txt are the average overall all measurments taken fo
 `Angle(X,GravityMean)`                                   
 `Angle(Y,GravityMean)`                                   
 `Angle(Z,GravityMean)`   
+=======
+'''
+Subjects
+'''
+- the ID of the Subject being measured 
+>>>>>>> parent of f06abb6... test
